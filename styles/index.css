@@ -366,3 +366,174 @@ color: #FFFFFF;
     padding-right: 40px;
 }
 
+.featured{
+    background-color:#1A0B2E ;
+    width: 1600px;
+    height: 1276px;
+}
+
+.featured h1,h2{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+.featured .featured-container{
+
+    width: 1200px;
+    height: 1250px;
+    margin-left: 200px ;
+    margin-right: 200px;
+
+}
+
+.featured .featured-container .upper-part{
+
+color: #FFFFFF;
+padding-top: 120px;
+text-align: center;
+font-size: 30px;
+font-weight: 700;
+}
+
+.upper-card{
+    display: flex;
+    margin-left:12px;
+    gap: 10px;
+}
+.upper-part .upper-card-1 , .upper-card-2 , .upper-card-3{
+background-color: #230E3D;
+    width: 380px;
+  
+}
+
+.upper-part .upper-card-1 h3{
+
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.upper-part .upper-card-1 p{
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.upper-part .upper-card-1 h5{
+
+    color: #00FF88;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 5px;
+    text-align: justify;
+
+}
+
+.upper-part .upper-card-2 h3{
+
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.upper-part .upper-card-2 p{
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.upper-part .upper-card-2 h5{
+
+    color: #00FF88;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 5px;
+    text-align: justify;
+
+}
+
+.upper-part .upper-card-3 h3{
+
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.upper-part .upper-card-3 p{
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.upper-part .upper-card-3 h5{
+
+    color: #00FF88;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 5px;
+    text-align: justify;
+
+}
+
+.lower-part h1{
+
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.lower-part h1{ 
+
+font-size: 40px;
+font-weight: 700;
+
+}
+
+.lower-part .lp-box{
+
+    background-color: #230E3D;
+    border-radius: 25px;
+    width: 1200px;
+    height: 280px;
+    margin-top: 50px;
+
+}
+
+.lower-part .lp-box img{
+
+    position: relative;
+    padding-top:40px;
+    padding-left: 40px;
+}
+
+.lower-part .lp-box h2{
+
+    position: absolute;
+    color: #FFFFFF;
+    padding-left: 340px;
+    padding-top: 50px;
+
+}
+.lower-part .lp-box p{
+
+    position: absolute;
+    color: #FFFFFF;
+    padding-left: 340px;
+    padding-top: 100px;
+
+    margin-right: 240px;
+}
+
+
+.lower-part .lp-box .emoji{
+
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 180px;
+}
+
