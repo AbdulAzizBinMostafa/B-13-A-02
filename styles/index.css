@@ -221,3 +221,148 @@ color: #FFFFFF;
     padding-left: 200px;
 }
 
+.why{
+
+    background-color: #230E3D;
+    width: 1600px;
+    height: 1121px;
+
+}
+
+.why .why-container .why-head h1{
+
+    margin-top: 0;
+    padding: 100px;
+    color: #FFFFFF;
+    font-size: 60px;
+   font-weight: 700;
+
+   text-align: center;
+
+}
+
+.why-card .card-1 , .card-2, .card-3 , .card-4, .card-5{
+
+      background-color: #35116566;
+     color: #FFFFFF;
+     border-radius: 25px ;
+}
+
+.why-card{
+    margin-left: 200px;
+    margin-right: 200px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+
+
+}
+
+.why-card .card-1{
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+.why-card .card-1 img{
+
+    padding-left: 40px;
+    padding-top: 107px;
+}
+.why-card .card-1 h3{
+
+    padding-left: 40px;
+    padding-top: 16px;
+}
+
+.why-card .card-1 p{
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 16px;
+}
+.why-card .card-2{
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.why-card .card-2 img{
+
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.why-card .card-2 h3{
+
+    padding-left: 40px;
+}
+
+.why-card .card-2 p{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.why-card .card-3{
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.why-card .card-3 img{
+
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.why-card .card-3 h3{
+
+    padding-left: 40px;
+}
+
+.why-card .card-3 p{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.why-card .card-4{
+    grid-row: span 1;
+    grid-column: span 2;
+}
+
+.why-card .card-4 img{
+
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.why-card .card-4 h3{
+
+    padding-left: 40px;
+}
+
+.why-card .card-4 p{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.why-card .card-5{
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+.why-card .card-5 img{
+
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.why-card .card-5 h3{
+
+    padding-left: 40px;
+}
+
+.why-card .card-5 p{
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
