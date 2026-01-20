@@ -62,3 +62,109 @@ margin-top: 24px;
 
 }
 
+.banner .banner-container .banner-bg{
+    position: relative;
+}
+
+.banner .banner-container .hero-box{
+    position: absolute;
+    height: 558px;
+    width: 550px;
+
+    margin-top: -650px;
+    margin-left: 525px;
+
+}
+
+.banner .banner-container .hero-box .hero-circle{
+
+    padding-left: 100px;
+    padding-right: 100px;
+
+    position: relative;
+}
+
+.banner .banner-container .hero-box  .hero-new{
+    position: absolute;
+
+    width: 75px;
+    background-color: #00FF88;
+
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom:2px;
+
+    border-radius: 95px;
+    text-align: center;
+
+    margin-left: 380px;
+    margin-top: -340px;
+    margin-right: 39px;
+    margin-bottom: 308px;
+
+}
+
+.banner .banner-container .hero-box .hero-mic{
+
+    position: absolute;
+    margin-left: 218px;
+    margin-top: -280px;
+}
+
+.banner .banner-container .hero-box .hero-logo{
+    color:#FFFFFF;
+    margin-left: 130px ;
+    font-size:30px;
+    font-weight: 800px;
+    margin-top: -30px;
+}
+.banner .banner-container .hero-box .hero-p{
+
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: -10px;
+
+}
+.banner .banner-container .hero-box .nav-btn{
+margin-left: 35px ;
+margin-top: 24px;
+width: 201px;
+text-align: center;
+ background: var(--Linear, linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(251, 9, 180, 1),rgba(145, 0, 248, 1)));
+color: #FFFFFF;
+    padding-left: 16px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-right: 16px;
+    border-radius: 70px;
+
+    font-size:16px;
+
+}
+
+.banner .banner-container .hero-box .nav-btn img{
+
+    margin-right: 10px;
+}
+
+.hero-btns{
+
+    display: flex;
+}
+.banner .banner-container .hero-box .hero-btn{
+margin-left: 15px ;
+margin-top: 24px;
+width: 201px;
+text-align: center;
+border: 1px solid #00FF88;
+color: #FFFFFF;
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-right: 16px;
+    border-radius: 70px;
+
+    font-size:16px;
+
+}
+
